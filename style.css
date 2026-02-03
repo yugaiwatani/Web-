@@ -1,0 +1,9 @@
+body {
+  background-color: rgba(102, 102, 102, 0.375);
+  text-align: center;
+}
+img {
+  display: block; /* 画像をブロック要素にする */
+  width: 800px; /* 幅は維持 */
+  margin: 20px auto; /* 上下の余白と中央揃え（必要であれば） */
+}
